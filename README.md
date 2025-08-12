@@ -1,8 +1,8 @@
-# Z-VoiceMaster
-Z-VoiceMaster is a Discord bot that allows users to create their own temporary voice channels, giving them full control over their private space.
+# Z-VoiceMaster (For ZygnalBot)
+Z-VoiceMaster is a Discord bot Cog that allows users to create their own temporary voice channels, giving them full control over their private space.
 
 Z-VoiceMaster
-A Discord bot for creating and managing temporary voice channels. When a user joins a designated "Join to Create" channel, the bot automatically creates a new voice channel and a private text channel for them, giving them full control.
+A Discord Cog for creating and managing temporary voice channels. When a user joins a designated "Join to Create" channel, the bot automatically creates a new voice channel and a private text channel for them, giving them full control.
 
 Features
 Automatic Channel Creation: Creates a temporary voice and text channel when a user joins a specific voice channel.
